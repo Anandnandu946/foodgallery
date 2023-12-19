@@ -1,0 +1,160 @@
+#divv{
+    width: 100%;
+    height: 100px;
+    
+    background-image: url("../images/olive-oil-346997_1280.jpg");
+    color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    
+}
+*{
+    
+    background-color: rgb(16, 15, 15);
+
+}
+div H1{
+    margin-left: 10px;
+    border: 2px solid rgb(243, 243, 246);
+    border-radius: 12px;
+}
+ul{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    border: 2px solid rgb(243, 243, 246);
+    border-radius: 12px;
+    
+    
+}
+li a{
+    margin-left: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+
+}
+ul li a:hover{
+    color: #e7dfdf;
+    border: 1px solid whitesmoke;
+    padding: 4px;
+    border-radius: 10px;
+}
+video{
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    border-radius: 50px;
+}
+#vdd{
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    border: 1px solid rgb(122, 120, 120);
+    border-radius: 50px;
+}
+.row{
+    width: 100%;
+    height: 500px;
+    background-color: antiquewhite;
+    background-image: url("../images/coffee-3120750_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(219, 173, 173);
+}
+.col{
+    width: 280px;
+    height: 400px;
+    background: rgb(11, 11, 11);
+    border-radius: 21px;
+    margin-left: 70px;
+    align-items: center;
+}
+img{
+    width: 100%;
+    height: 200px;
+    border-radius:21px;
+    border: 1px solid rgb(0, 0, 0);
+}
+button{
+    background: black;
+    color: wheat;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    border: 2px solid white;
+}
+h2,h3,p{
+    color: aliceblue;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.col:hover{
+    background-color: rgb(218, 69, 69);
+}
+.overlay{
+    position: absolute;
+    font-size: larger;
+    font-weight: 900;
+    top: 500px;
+    left: 500px;
+   font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 10px;
+}
+footer{
+    height: 1000px;
+    background-color: rgb(16, 16, 16);
+}
+#foot1{
+    background-color: rgb(13, 12, 12);
+    height: 50px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin-top: 10px;
+   color: white;
+
+}
+.ftr{
+    
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 30px;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.frow{
+    height: 500px;
+    display: flex;
+    align-items: end;
+    
+}
+#last{
+    margin-top: 20px;
+    margin-left: 300px;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+#la{ margin-top: 20px;
+    margin-left: 550px;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+h6{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: x-large;
+color: white;
+}
+button:hover{
+    color:rgb(22, 9, 203);
+}
